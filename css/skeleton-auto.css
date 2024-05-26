@@ -97,6 +97,13 @@ body {
     sans-serif;
 }
 
+footer {
+  display: block;
+  text-align: center;
+  padding-top: 1em;
+  scroll-margin-bottom: 10%;
+}
+
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 h1 {
