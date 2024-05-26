@@ -123,7 +123,11 @@ p {
 }
 
 ul {
-  list-style-position: none;
+  list-style-type: none;
+}
+
+li {
+  margin-top: 10px;
 }
 
 /* Links
