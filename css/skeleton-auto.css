@@ -99,6 +99,8 @@ body {
 
 footer {
   display: block;
+  margin: auto;
+  align-items: center;
   text-align: center;
   padding-top: 1em;
   scroll-margin-bottom: 10%;
