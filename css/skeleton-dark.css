@@ -97,6 +97,16 @@ body {
     sans-serif;
 }
 
+footer {
+  display: block;
+  margin: auto;
+  align-items: center;
+  text-align: center;
+  padding-top: 1em;
+  scroll-margin-bottom: 10%;
+  width: 100%;
+}
+
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 h1 {
@@ -120,6 +130,15 @@ h1 {
 
 p {
   margin-top: 0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  list-style-type: none;
+  margin-top: 10px;
 }
 
 /* Links
