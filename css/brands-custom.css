@@ -1,0 +1,9 @@
+/* LibraryThing */
+.button.button-librarything {
+  color: #251A15;
+  background-color: #f8f4f0;
+}
+.button.button-librarything:hover,
+.button.button-librarything:focus {
+  filter: brightness(90%);
+}
