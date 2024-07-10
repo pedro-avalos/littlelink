@@ -1,6 +1,16 @@
+/* Fable */
+.button.button-fable {
+  color: #000000;
+  background-color: #ffffff;
+}
+.button.button-fable:hover,
+.button.button-fable:focus {
+  filter: brightness(90%);
+}
+
 /* LibraryThing */
 .button.button-librarything {
-  color: #251A15;
+  color: #251a15;
   background-color: #f8f4f0;
 }
 .button.button-librarything:hover,
